@@ -6,6 +6,7 @@
 
 ### SOCIALS
 [![](https://dcbadge.vercel.app/api/server/3363vsT9ky)](https://discord.gg/3363vsT9ky)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/northernsoftware)
 
 ### STATISTICS
 ![](https://komarev.com/ghpvc/?username=NorthernSoftware) 
