@@ -1,5 +1,3 @@
-### Welcome to NorthernSoftware
-
 ### LANGUAGES
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -11,6 +9,3 @@
 
 ### STATISTICS
 ![](https://komarev.com/ghpvc/?username=NorthernSoftware) 
-
-
-
